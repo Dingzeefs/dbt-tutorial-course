@@ -5,5 +5,3 @@ logs/
 venv/
 .venv/
 *.pyc
-.myvenv/
-myvenv/
