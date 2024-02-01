@@ -26,16 +26,16 @@ models:
                 - Returned
 
       - name: created_at
-        description: ""
+        description: "When the order was created"
 
       - name: returned_at
-        description: ""
+        description: "When the order was returned"
 
       - name: shipped_at
-        description: ""
+        description: "When the order was shipped"
 
       - name: delivered_at
-        description: ""
+        description: "When the order was delivered"
 
-      - name: num_of_item
+      - name: num_of_items_ordered
         description: ""
